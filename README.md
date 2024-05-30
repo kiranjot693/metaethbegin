@@ -1,5 +1,5 @@
 # metaethbegin
-This smart contract defines a simple token system on the Ethereum blockchain. It includes features for minting (creating) and burning (destroying) tokens.
+This smart contract (hw.sol) defines a simple token system on the Ethereum blockchain. It includes features for minting (creating) and burning (destroying) tokens.
 
 **Public Variables:**
 
